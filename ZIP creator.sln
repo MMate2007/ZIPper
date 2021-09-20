@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZIP creator", "ZIP creator\ZIP creator.csproj", "{41D5BE38-96A6-48CA-89BF-66760E3F279E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZIP creator 1.1", "ZIP creator 1.1\ZIP creator 1.1.csproj", "{BF7F12A9-59C6-4552-A4CE-D2C7D855CEA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41D5BE38-96A6-48CA-89BF-66760E3F279E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41D5BE38-96A6-48CA-89BF-66760E3F279E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41D5BE38-96A6-48CA-89BF-66760E3F279E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41D5BE38-96A6-48CA-89BF-66760E3F279E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF7F12A9-59C6-4552-A4CE-D2C7D855CEA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7F12A9-59C6-4552-A4CE-D2C7D855CEA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7F12A9-59C6-4552-A4CE-D2C7D855CEA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7F12A9-59C6-4552-A4CE-D2C7D855CEA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37565897-ECAC-49ED-9C59-3238D60BE792}
+	EndGlobalSection
+EndGlobal
